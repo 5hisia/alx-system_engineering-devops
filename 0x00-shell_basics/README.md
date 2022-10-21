@@ -1,1 +1,1 @@
-scripting in shell
+Script that reads absolute path
